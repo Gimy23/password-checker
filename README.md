@@ -22,3 +22,6 @@ A beginner-friendly Python project that evaluates the strength of a password bas
    ```bash
    https://github.com/Gimy23/password-checker.git
    cd password-checker
+2.Run the script:
+  ```bash
+     python3 password_checker.py
