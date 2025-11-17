@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-A beginner-friendly Python project that evaluates the strength of a password based on length, character variety, and common weak patterns. Built to practice **Python fundamentals** and demonstrate **cybersecurity awareness**.
+A Python project that evaluates the strength of a password based on length, character variety, and common weak patterns. Built to practice Python fundamentals and demonstrate common security checks for passwords.
 
 ---
 
@@ -17,11 +17,27 @@ A beginner-friendly Python project that evaluates the strength of a password bas
 
 ---
 
+## Requirements
+- Python 3.8+ (or whichever version your project supports)
+
+---
+
 ## 🛠 Installation & Usage
 1. Clone the repository:
    ```bash
-   https://github.com/Gimy23/password-checker.git
+   git clone https://github.com/Gimy23/password-checker.git
    cd password-checker
-2.Run the script:
-  ```bash
-     python3 password_checker.py
+   ```
+2. Run the script:
+   ```bash
+   python3 password_checker.py
+   ```
+
+---
+
+## Example
+- Enter a password when prompted; the script will print the strength rating and suggestions.
+
+---
+
+
