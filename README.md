@@ -30,7 +30,7 @@ A Python project that evaluates the strength of a password based on length, char
    ```
 2. Run the script:
    ```bash
-   python3 password_checker.py
+   python3 password-checker.py
    ```
 
 ---
